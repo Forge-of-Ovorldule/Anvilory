@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Статус проекта:** Программа находится на ранней стадии разработки. Выход первой версии будет не скоро.
+
+---
+
 <!-- Логотип -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/233d4796-b2d8-4058-8eac-cf1bb67d12a9" width="180" height="180" alt="Anvilory Icon" style="border-radius: 25px; box-shadow: 0 0 20px #8e44ad;">
